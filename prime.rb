@@ -5,5 +5,7 @@ def prime?(integer)
       false 
     elsif integer < 2
       false
+    end
+  end
   true
 end
