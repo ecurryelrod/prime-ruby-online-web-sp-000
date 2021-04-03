@@ -4,5 +4,6 @@ def prime?(integer)
     integer % num == 0? || integer < 2?
       false
     end
+  end
   true
 end
